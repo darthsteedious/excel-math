@@ -1,6 +1,7 @@
 # excel-math
 Excel math functions ported to go.
 
+`import "excelmath"`
 
 ## GeoMean ##
 `func GeoMean(series []float64) (float64, error)`
